@@ -81,7 +81,7 @@ From top to bottom, this is the order we encourage for multiple sign in options 
 6. The label “Or” to separate the email and password boxes from the the Sign-in buttons
 7. Sign-in buttons for each option labeled “Sign in with [name of authentication option]”
 
-Style each button with a different background color. For Login.gov we recommend using the color hexadecimal value of #0071bb. Center-justify the text inthe button. Follow the same font recommendations as the single button option.
+Style each button with a different background color. For Login.gov we recommend using the color hexadecimal value of #0071bb. Center-justify the text in the button. Follow the same font recommendations as the single button option.
 
 ### Sign-out
 Users need a clearly marked button to sign out. After a user has signed in to your app, support the sign out interaction with a button labeled “Sign out”. This button replaces the Sign-in button on the interface, preferably in the same location. The  [Sign-out icon](https://fontawesome.com/icons/sign-out?style=solid) from Font Awesome is suggested for the Sign-out button.
